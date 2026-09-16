@@ -41,4 +41,4 @@ Practical AI implementation grounded in the realities of instructional work, plu
 treated as a design discipline with traceable, evaluable output rather than as trial and error.
 
 **Full documentation (Spanish):**
-[04-genai-prototype-for-teaching-practice.pdf](04-genai-prototype-for-teaching-practice.pdf) · 12 pages
+[04-genai-prototype-for-teaching-practice.pdf](04-genai-prototype-for-teaching-practice.pdf) · 11 pages
