@@ -1,7 +1,8 @@
 # Prompt Engineering for Special Education: A Controlled Comparison
 
 **Role:** Designer and evaluator
-**Program:** Inteligencia Artificial Generativa — Universidad Politécnica Salesiana del Ecuador
+**Program:** Diplomado en manejo de herramientas de IA aplicadas a la gestión educativa —
+Universidad Politécnica Salesiana del Ecuador
 **Focus:** Multiple disabilities · Universal Design for Learning
 
 ---

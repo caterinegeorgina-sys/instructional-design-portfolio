@@ -1,8 +1,8 @@
 # AI-Built Multimedia Resource for an Inclusive Classroom
 
 **Role:** Instructional designer
-**Program:** Certificación en el manejo de herramientas de IA aplicadas a la educación — Universidad
-Politécnica Salesiana del Ecuador
+**Program:** Diplomado en manejo de herramientas de IA aplicadas a la gestión educativa —
+Universidad Politécnica Salesiana del Ecuador
 **Focus:** Multiple disabilities · UDL · Accessible multimedia
 
 ---

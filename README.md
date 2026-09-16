@@ -105,6 +105,14 @@ and interoceptive channels usually left out of "multisensory" resources — with
 adapted stories and a human carrying the mediation. Digital resources paired with physical objects,
 because a story that lives only on a screen is inaccessible to a learner who reads the world by hand.
 
+### [11 · Person-Centered Plan: A Transdisciplinary Model](11-person-centered-plan-transdisciplinary.md)
+
+**Special education lead and process coordinator within a six-person transdisciplinary team.** A
+person-centered plan for a child with multiple disabilities, coordinating physical therapy,
+speech-language pathology, physical education, early childhood education, and the family into one
+document rather than six parallel ones. Built on the Rowland Communication Matrix and the ICF functional
+framework, with equine therapy integrated for postural and sensory regulation. Published de-identified.
+
 ---
 
 ## Design approach
@@ -125,7 +133,7 @@ because a story that lives only on a screen is inaccessible to a learner who rea
 - **Maestría en Educación Especial, mención Discapacidad Múltiple** — Universidad Politécnica Salesiana, Ecuador · in progress
 - **Licenciatura en Educación Infantil** — Corporación Universitaria Americana, Colombia · graduating December 2026
 - **Diplomado en Inteligencia Artificial Generativa** — Asturias Corporación Universitaria
-- **Certificación en el manejo de herramientas de IA aplicadas a la educación** — Universidad Politécnica Salesiana, Ecuador
+- **Diplomado en manejo de herramientas de IA aplicadas a la gestión educativa** — Universidad Politécnica Salesiana, Ecuador
 
 ---
 
